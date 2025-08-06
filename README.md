@@ -1,19 +1,6 @@
 <h1 align="center">👋 你好，我是王博霖 (Bolyn)</h1>
 
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.wbolyn.com"><img width="32px" alt="个人网站" title="个人网站" src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:1710998763@qq.com"><img width="32px" alt="邮箱" title="邮箱联系" src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://apps.apple.com/cn/app/markdown-card/id6746740440"><img width="32px" alt="iOS App" title="我的iOS应用" src="https://img.icons8.com/fluency/48/000000/app-store.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="微信" title="微信: bolyn000"><img width="32px" src="https://img.icons8.com/fluency/48/000000/wechat.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="公众号" title="公众号: 王博霖"><img width="32px" src="https://img.icons8.com/fluency/48/000000/wechat.png"/></a>
-</p>
-
 <p align="center">
   <strong>🌐 个人网站:</strong> <a href="https://www.wbolyn.com">www.wbolyn.com</a> |
   <strong>📧 邮箱:</strong> 1710998763@qq.com |
