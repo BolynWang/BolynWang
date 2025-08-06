@@ -1,15 +1,5 @@
-<p align="center">
-  <a href="https://github.com/BolynWang">
-    <img src="https://avatars.githubusercontent.com/u/BolynWang?v=4" alt="王博霖 Bolyn" width="200" height="200" style="border-radius: 50%;"/></a>
-</p>
-
 <h1 align="center">👋 你好，我是王博霖 (Bolyn)</h1>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=同济大学物理学博士在读;AI工具与技术分享者;互联网营销专家;AIGC内容创作者;iOS开发者;自媒体运营者&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=20" /></a>
-</p>
 
 <!-- Social icons section -->
 <p align="center">
@@ -260,5 +250,5 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="BolynWang's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BolynWang&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ 最新GitHub动态</h3>
+
 
