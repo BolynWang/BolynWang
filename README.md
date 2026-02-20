@@ -28,7 +28,7 @@
 <details open>
   <summary><h2>🙋‍♂️ 关于我</h2></summary>
   
-  <p>你好，我是<strong>王博霖</strong>，同济大学物理学在读博士。</p>
+  <p>你好，我是<strong>王博霖</strong>，理工男。</p>
   
   <p>这个账号主要用来分享一些我自己学习生活中的一点思考，包括但不限于自媒体、互联网、写作、AI技术；希望我独有的经验能够给大家带来新的视角。</p>
   
@@ -40,7 +40,6 @@
   
   <p>🌟 <strong>专注领域：</strong>AI工具应用、互联网营销、AIGC内容创作、新兴科技分享</p>
   
-  <p>📱 <strong>最新成就：</strong>零基础借助AI两天开发iOS应用 <a href="https://apps.apple.com/cn/app/markdown-card/id6746740440">Markdown Card</a> 并成功上架App Store</p>
   
 </details>
 
@@ -166,8 +165,6 @@
       <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000.svg?logo=cursor&logoColor=white">
       <img alt="Trae" src="https://img.shields.io/badge/Trae-FF6B6B.svg?logo=trae&logoColor=white">
       <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-      <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0052CC.svg?logo=swift&logoColor=white">
-      <img alt="UIKit" src="https://img.shields.io/badge/UIKit-2396F3.svg?logo=uikit&logoColor=white">
       <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
   </p>
 
